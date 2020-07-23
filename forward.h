@@ -1,5 +1,5 @@
 //Forward player class to walk forward
-class forward(){
+class forward{
     friend class fighting;
     friend class hurdle;
     friend class initial;
